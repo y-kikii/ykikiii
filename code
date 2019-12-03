@@ -11,7 +11,7 @@ int main()
   for( i =1; i<= limit; i++)
       sum +=i;
       
-  printf("1부터 %d까지의 정수의 합=%d\n", limit, sum);
+  printf("1부터 %d까지의 정수의 합은=%d\n", limit, sum);
   
   return 0;
   
